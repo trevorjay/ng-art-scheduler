@@ -1,6 +1,3 @@
-(let ((quicklisp-init "/Users/tjay/Downloads/foolin/ng/ql/setup.lisp"))
-  (when (probe-file quicklisp-init)
-    (load quicklisp-init)))
 (ql:quickload :parenscript)
 (defpackage "NG" (:use "COMMON-LISP" "PARENSCRIPT"))
 (in-package "NG")
@@ -76,7 +73,7 @@
 
 (with-open-file
     (idx
-     "/Users/tjay/Downloads/foolin/ng/ng.js"
+     "ng_as.js"
      :direction :output
      :if-does-not-exist :create
      :if-exists :supersede)
