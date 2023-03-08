@@ -4,7 +4,7 @@ The Newgrounds Art Scheduler is a simple bookmarklet based scheduler for art pos
 
 ## Install
 
-To install, follow the instructions [here](https://raw.githack.com/trevorjay/ng-art-scheduler/devel/install.html).
+To install, follow the instructions [here](https://raw.githack.com/trevorjay/ng-art-scheduler/main/install.html).
 
 ## Usage
 
