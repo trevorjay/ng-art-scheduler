@@ -1,3 +1,5 @@
+![Newgrounds Art Scheduler](https://raw.githubusercontent.com/trevorjay/ng-art-scheduler/main/bondi_newgrounds_art_scheduler_large.png)
+
 # Newgrounds Art Scheduler
 
 The Newgrounds Art Scheduler is a simple bookmarklet based scheduler for art post on Newgrounds. 
