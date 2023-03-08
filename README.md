@@ -1,4 +1,4 @@
-![Newgrounds Art Scheduler](https://raw.githubusercontent.com/trevorjay/ng-art-scheduler/main/bondi_newgrounds_art_scheduler_large.png)
+![Newgrounds Art Scheduler](https://raw.githubusercontent.com/trevorjay/ng-art-scheduler/main/bondi_newgrounds_art_scheduler_large02.png)
 
 # Newgrounds Art Scheduler
 
