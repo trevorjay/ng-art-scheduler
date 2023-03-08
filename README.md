@@ -2,7 +2,7 @@
 
 # Newgrounds Art Scheduler
 
-The Newgrounds Art Scheduler is a simple bookmarklet based scheduler for art post on Newgrounds. 
+The Newgrounds Art Scheduler is a simple bookmarklet based scheduler for art post on [Newgrounds](https://kittyhawkmontrose.newgrounds.com/news/post/1344527). 
 
 ## Install
 
