@@ -19,5 +19,5 @@ To install, follow the instructions [here](https://raw.githack.com/trevorjay/ng-
 ## Limitations
 
 * In order to post, a browser window must have the countdown as the active tab when the countdown expires.
-* In order to post, your machine must not be asleep when the countdown expires.
-* The scheduler will try to post at the time you set but due to differences in your and the NG clock, caching, and upload times, your post may not be available at that exact time.
+* In order to post, your machine must be online and not asleep when the countdown expires.
+* The scheduler will try to post at the time you set but due to differences in your computer and the NG clock, caching, and upload times, your post may not be available at that exact time.
